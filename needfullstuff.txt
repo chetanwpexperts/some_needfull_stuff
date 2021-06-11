@@ -1,0 +1,8 @@
+Help
+1. 	setup laravel on local server
+	-  https://miguelpiedrafita.com/laravel-local-environment
+
+2. 	laravel clear cache
+	- https://stackcoder.in/posts/laravel-clear-cache-of-route-view-config-command#:~:text=Laravel%20Clear%20Cache%20Of%20Route%2C%20View%2C%20Config%20Command,Caches%20Using%20Custom%20Command.%20...%205%20Conclusion.%20
+	
+--------------------------------------------------------------
